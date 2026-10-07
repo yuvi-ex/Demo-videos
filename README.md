@@ -7,7 +7,7 @@ small to clone.
 ## Easiest: the ready-to-run kit (laptop connected to the booth TV)
 
 Download **[Exasol-Booth-Loop-Kit.zip](https://github.com/yuvi-ex/Demo-videos/releases/download/v2/Exasol-Booth-Loop-Kit.zip)**
-(241 MB), unzip it, and double-click **Booth loop v1.html** (all three videos) or **Booth loop v2.html**
+(213 MB), unzip it, and double-click **Booth loop v1.html** (all three videos) or **Booth loop v2.html**
 (intro + Lakehouse Turbo). The video starts by itself and repeats forever, with no play button. Click once or press
 **F** for full screen. Works offline on Mac and Windows in any browser; the zip includes a README.txt with the
 steps, including how to keep the laptop awake.
@@ -19,7 +19,7 @@ Both are 1080p, 60 fps, H.264 MP4 with no audio, so they play on practically any
 
 | Loop | What plays, in order | Length | Size | Download |
 |---|---|---|---|---|
-| **Version 1: all three** | Exasol introduction → Lakehouse Turbo story → Kafka to SQL | 3:51 | 58 MB | [Exasol-Booth-Loop-v1-All3-1080p.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v2/Exasol-Booth-Loop-v1-All3-1080p.mp4) |
+| **Version 1: all three** | Exasol introduction → Lakehouse Turbo story → Kafka to SQL | 4:21 | 30 MB | [Exasol-Booth-Loop-v1-All3-1080p.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v2/Exasol-Booth-Loop-v1-All3-1080p.mp4) |
 | **Version 2: intro + Lakehouse Turbo** | Exasol introduction → Lakehouse Turbo story | 2:42 | 183 MB | [Exasol-Booth-Loop-v2-Intro-LakehouseTurbo-1080p.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v2/Exasol-Booth-Loop-v2-Intro-LakehouseTurbo-1080p.mp4) |
 
 Both are in the [`v2` release](https://github.com/yuvi-ex/Demo-videos/releases/tag/v2). Download them from the
@@ -33,7 +33,7 @@ gh release download v2 --repo yuvi-ex/Demo-videos
 VLC turn on **Repeat one**. Turn off sleep and the screen saver for the day (on a Mac, run `caffeinate -di` in
 Terminal and leave it open).
 
-Version 1 was re-encoded to 1080p, 60 fps so the three parts match (the Kafka video is 4K, 30 fps on its own).
+Version 1 was re-encoded to 1080p, 60 fps so the three parts match (the Kafka video is 4K on its own).
 Version 2 joins its two parts without re-encoding, so it is identical in quality to the originals.
 
 ## The separate videos (v1 release)
@@ -42,7 +42,7 @@ Version 2 joins its two parts without re-encoding, so it is identical in quality
 |---|---|---|---|---|
 | Exasol introduction | 1920×1080 | 1:12 | 91 MB | [Exasol-Introduction-Loop-v1.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v1/Exasol-Introduction-Loop-v1.mp4) |
 | Lakehouse Turbo story | 1920×1080 | 1:30 | 91 MB | [Lakehouse-Turbo-Story-Loop-v1.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v1/Lakehouse-Turbo-Story-Loop-v1.mp4) |
-| Kafka to SQL | 3840×2160 (4K) | 1:09 | 197 MB | [Exasol-Kafka-to-SQL-Booth-Loop-4K.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v1/Exasol-Kafka-to-SQL-Booth-Loop-4K.mp4) |
+| Kafka to SQL | 3840×2160 (4K) | 1:38 | 32 MB | [Exasol-Kafka-to-SQL-Story-Loop-4K.mp4](https://github.com/yuvi-ex/Demo-videos/releases/download/v1/Exasol-Kafka-to-SQL-Story-Loop-4K.mp4) |
 
 All three are H.264 MP4 with no audio track, made to loop.
 
