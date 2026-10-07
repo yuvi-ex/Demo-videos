@@ -4,6 +4,14 @@ Silent looping videos for a booth screen. The files are attached to GitHub relea
 GitHub refuses files over 100 MB in a normal push, and keeping the videos in releases means the repo stays
 small to clone.
 
+## Easiest: the ready-to-run kit (laptop connected to the booth TV)
+
+Download **[Exasol-Booth-Loop-Kit.zip](https://github.com/yuvi-ex/Demo-videos/releases/download/v2/Exasol-Booth-Loop-Kit.zip)**
+(241 MB), unzip it, and double-click **Booth loop v1.html** (all three videos) or **Booth loop v2.html**
+(intro + Lakehouse Turbo). The video starts by itself and repeats forever, with no play button. Click once or press
+**F** for full screen. Works offline on Mac and Windows in any browser; the zip includes a README.txt with the
+steps, including how to keep the laptop awake.
+
 ## For the booth TV: one file, play on repeat
 
 Pick one file, copy it to a USB stick (or the TV's media player), and set the player to **repeat / loop one file**.
